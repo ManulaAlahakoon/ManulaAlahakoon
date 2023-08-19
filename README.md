@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs**
 
-- 👀 I’m waiting to learn **SpringBoot,php,MongoDB,Electron,AR,**
+- 👀 I’m eager to learn **GSAP,Spring Boot,PHP,MongoDB,Electron.js,SQLite,Augmented reality**
 
 - 📫 How to reach me **manula.alahakoon@gmail.com**
 
