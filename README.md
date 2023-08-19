@@ -4,9 +4,9 @@
 
 - 🔭 I’m currently working on [Attendance Marking App](https://github.com/ManulaAlahakoon/Attendance-Marking-App-)
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🌱 I’m currently learning **React, Nodejs**
 
-- 👀 I’m eager to learn **GSAP,Spring Boot,PHP,MongoDB,Electron.js,SQLite,Augmented reality**
+- 👀 I’m eager to learn **GSAP, Spring Boot, PHP, MongoDB, Electron.js, SQLite, Augmented reality**
 
 - 📫 How to reach me **manula.alahakoon@gmail.com**
 
