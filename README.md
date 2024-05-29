@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **React,Nodejs**
 
-- 👀 I’m eager to learn **AWS Redux Docker DevOps Cloud computing Augmented reality**
+- 👀 I’m eager to learn **DevOps Cloud computing Augmented reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
