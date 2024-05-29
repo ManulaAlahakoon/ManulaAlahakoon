@@ -2,13 +2,9 @@
 <h1 align="center">Hi 👋, I'm Manula Alahakoon</h1>
 <h3 align="center">I love to do creative and innovative things in whatever field I get passionate to.</h3>
 
-- 🔭 I’m currently working on [Attendance Marking App](https://github.com/ManulaAlahakoon/Attendance-Marking-App-)
-
 - 🌱 I’m currently learning **React,Nodejs**
 
-- 👀 I’m eager to learn **GSAP, Spring Boot, PHP, MongoDB, Electron.js, SQLite, Augmented reality**
-  
-- 📫 How to reach me **manula.alahakoon@gmail.com**
+- 👀 I’m eager to learn **AWS Redux Docker DevOps Cloud computing Augmented reality**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
