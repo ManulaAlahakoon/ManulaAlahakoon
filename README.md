@@ -1,10 +1,13 @@
-
 <h1 align="center">Hi 👋, I'm Manula Alahakoon</h1>
-<h3 align="center">I love to do creative and innovative things in whatever field I get passionate to.</h3>
+<h3 align="center">Software Engineer | Innovator Who Loves Turning Ideas Into Real-World Solutions</h3>
 
-- 🌱 I’m currently learning **React,Nodejs**
+<p align="center">
+I love building creative, meaningful and innovative solutions in any field I get passionate about
+</p>
 
-- 👀 I’m eager to learn **DevOps Cloud computing Augmented reality**
+---
+
+- 🌱 I’m currently working on **IoT + Blockchain based quality verification system for agriculture supply chains**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
