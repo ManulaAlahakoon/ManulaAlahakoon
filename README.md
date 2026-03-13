@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Manula Alahakoon</h1>
-<h3 align="center">Technology Enthusiast | DevOps • Cloud • Cybersecurity • AI/MLt • Software Development</h3>
+<h3 align="center">Technology Enthusiast | DevOps • Cloud • Cybersecurity • AI/ML • Software Development</h3>
 
 <p align="center">
 I enjoy building creative, meaningful, and innovative solutions that solve real-world problems. 
