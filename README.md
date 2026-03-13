@@ -3,7 +3,7 @@
 
 <p align="center">
 I enjoy building creative, meaningful, and innovative solutions that solve real-world problems. 
-My interests span across DevOps, cloud technologies, cybersecurity, and software development, 
+My interests span across DevOps, cloud technologies, cybersecurity, AI, and software development, 
 where I explore how modern technologies can be combined to create reliable and impactful systems.
 </p>
 
